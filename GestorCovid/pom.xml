@@ -25,5 +25,6 @@
   <modules>
     <module>M1-Seguimiento</module>
     <module>M0-Catalogacion</module>
+    <module>M2-Vacunacion</module>
   </modules>
 </project>
