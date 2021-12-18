@@ -8,9 +8,9 @@
     <version>1.0.0</version>
   </parent>
   <groupId>B02</groupId>
-  <artifactId>M1-Seguimiento</artifactId>
+  <artifactId>M0-Catalogacion</artifactId>
   <version>1.0.0</version>
-  <name>M1-Seguimiento</name>
+  <name>M0-Catalogacion</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,11 +21,6 @@
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
-    </dependency>
-    <dependency>
-    	<groupId>B.02</groupId>
-    	<artifactId>M0-Catalogacion</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>

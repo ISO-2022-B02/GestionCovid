@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
     <module>M1-Seguimiento</module>
+    <module>M0-Catalogacion</module>
   </modules>
 </project>
